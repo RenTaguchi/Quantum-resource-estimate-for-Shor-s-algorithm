@@ -2,4 +2,4 @@
 
 ## How to use
 
-Set *SQUARESWITCHLIST, *INVLIST, and *PMLIST in MAIN.ipynb and run.
+Set SQUARESWITCHLIST, INVLIST, and PMLIST in MAIN.ipynb and run.
